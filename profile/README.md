@@ -10,8 +10,9 @@
 В нашей GitHub организации представленны репозитории:
 * [Backend приложение](https://github.com/team4-sad/backend-fast-api) на FastAPI/Python
 * [Мобильное приложение](https://github.com/team4-sad/flutter-mobile-client) на Flutter/Dart
-* [Скраппер новостей МИИГАиК](https://github.com/team4-sad/miigaik-news-scrapper) на Python
-* [Редактор схемы кампуса](https://github.com/team4-sad/flutter-scheme-editor) на Flutter/Dart
+<!-- * [Скраппер новостей МИИГАиК](https://github.com/team4-sad/miigaik-news-scrapper) на Python -->
+<!-- * [Редактор схемы кампуса](https://github.com/team4-sad/flutter-scheme-editor) на Flutter/Dart -->
+
 
 Для более детальной информации в каждом из репозиториев представлен README файл
 
