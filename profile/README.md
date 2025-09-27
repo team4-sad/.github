@@ -1,12 +1,17 @@
-## Hi there 👋
+# Команда 4
 
-<!--
+Мы команда 4 занимаемся разработкой мобильного приложения для МИИГАиК в рамках предмета "Учебная (проектно-технологическая) практика".
 
-**Here are some ideas to get you started:**
+Наша команда состоит из студентов МИИГАиК группы 2023-ФГиИБ-ПИ-1б:
+- Струков Артемий (Мобильный разработчик, проект-менеджер)
+- Золоторева Светлана (Дизайнер, продакт-менеджер, Backend-разработчик)
+- Корязов Дмитрий (Backend-разработчик, проектировщик баз-данных)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+В нашей GitHub организации представленны репозитории:
+* [Backend приложение](https://github.com/team4-sad/backend-fast-api) на FastAPI/Python
+* [Мобильное приложение](https://github.com/team4-sad/flutter-mobile-client) на Flutter/Dart
+* [Скраппер новостей МИИГАиК](https://github.com/team4-sad/miigaik-news-scrapper) на Python
+* [Редактор схемы кампуса](https://github.com/team4-sad/flutter-scheme-editor) на Flutter/Dart
+
+Для более детальной информации в каждом из репозиториев представлен README файл
+
